@@ -1,4 +1,4 @@
-# 🖼️ OpenCV Face Detection Complete
+# 🖼️ Introdução à Visão Computacional com OpenCV e Detecção Facial
 
 ## 📌 Descrição
 Este repositório reúne exemplos práticos de **Visão Computacional com OpenCV**, organizados em um único notebook consolidado.  
