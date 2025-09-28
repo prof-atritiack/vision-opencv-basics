@@ -22,6 +22,7 @@ vision-opencv-basics/
 │
 ├── datasets/        
 │   ├── images/      # imagens de teste utilizadas nos notebooks
+│   ├── models/      # arquivos de modelos pré-treinados do OpenCV (ex.: Haarcascades)
 │
 └── README.md
 ```
