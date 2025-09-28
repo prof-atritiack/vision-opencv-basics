@@ -33,7 +33,7 @@ vision-opencv-basics/
 
 1. **Clonar este repositório**
    ```bash
-   git clone https://github.com/SEU_USUARIO/vision-opencv-basics.git
+   git clone https://github.com/prof-atritiack/vision-opencv-basics.git
    cd vision-opencv-basics
    ```
 
@@ -51,7 +51,7 @@ vision-opencv-basics/
 
 4. **Abrir o notebook**
    ```bash
-   jupyter notebook notebooks/OpenCV_Face_Detection_Complete_Improved.ipynb
+   jupyter notebook notebooks/001_OpenCV_Face_Detection.ipynb
    ```
 
 ---
